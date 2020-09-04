@@ -1,5 +1,5 @@
 import React from "react";
-import NavBar from "./NavBar";
+import NavBar from "./";
 import renderer from "react-test-renderer";
 
 it("renders correctly", () => {

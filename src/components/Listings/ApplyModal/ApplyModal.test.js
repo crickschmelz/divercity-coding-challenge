@@ -1,5 +1,5 @@
 import React from "react";
-import ApplyModal from "./ApplyModal";
+import ApplyModal from "./";
 import renderer from "react-test-renderer";
 
 it("renders correctly", () => {
