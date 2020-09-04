@@ -1,4 +1,5 @@
 # divercity-coding-challenge
+
 Created with CodeSandbox
 
 Description: Basic jobs platform that allows users to create an account/login, view/filter available jobs, and apply for job

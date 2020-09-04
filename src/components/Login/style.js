@@ -31,7 +31,7 @@ export const SignUpButton = styled.button`
   border: none;
   font-weight: 800;
   font-size: 12px;
-  width: 60px;
+  width: 70px;
   cursor: pointer;
 `;
 
