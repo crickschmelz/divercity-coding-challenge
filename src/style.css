@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+html {
+  height: auto;
+  width: 100%;
+  background-color: #f5f6f8;
+}
+
+* {
+  font-family: "Nunito Sans", sans-serif;
+}
