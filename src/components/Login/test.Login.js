@@ -1,8 +1,8 @@
 import React from "react";
-import Home from "./components/Home";
+import Login from "./Login";
 import renderer from "react-test-renderer";
 
 it("renders correctly", () => {
-  const tree = renderer.create(<Home />).toJSON();
+  const tree = renderer.create(<Login />).toJSON();
   expect(tree).toMatchSnapshot();
 });

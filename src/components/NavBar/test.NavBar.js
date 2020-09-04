@@ -1,8 +1,8 @@
 import React from "react";
-import CreateAccount from "./components/CreateAccount";
+import NavBar from "./NavBar";
 import renderer from "react-test-renderer";
 
 it("renders correctly", () => {
-  const tree = renderer.create(<CreateAccount />).toJSON();
+  const tree = renderer.create(<NavBar />).toJSON();
   expect(tree).toMatchSnapshot();
 });

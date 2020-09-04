@@ -1,8 +1,8 @@
 import React from "react";
-import Job from "./components/Listings/Job";
+import ApplyModal from "./ApplyModal";
 import renderer from "react-test-renderer";
 
 it("renders correctly", () => {
-  const tree = renderer.create(<Job />).toJSON();
+  const tree = renderer.create(<ApplyModal />).toJSON();
   expect(tree).toMatchSnapshot();
 });
