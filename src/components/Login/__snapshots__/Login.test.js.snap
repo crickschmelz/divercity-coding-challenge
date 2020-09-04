@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <section
+    className="sc-AxirZ fBsFLx"
+  >
+    <h3
+      className="sc-AxheI ByOdM"
+    >
+      Join the Team!
+    </h3>
+    <form
+      className="sc-AxhUy hAEoc"
+      onSubmit={[Function]}
+    >
+      <input
+        className="sc-AxgMl bTTnAr"
+        onChange={[Function]}
+        placeholder="Username"
+        required={true}
+        type="text"
+      />
+      <input
+        className="sc-AxgMl bTTnAr"
+        onChange={[Function]}
+        placeholder="Password"
+        required={true}
+        type="text"
+      />
+      <button
+        className="sc-AxiKw jkKWHF"
+        type="submit"
+      >
+        LOGIN
+      </button>
+    </form>
+  </section>
+  <p
+    className="sc-AxjAm jucUDx"
+  >
+    Not a member?
+    <button
+      className="sc-AxhCb fWgOeA"
+      onClick={[Function]}
+      value="create-account"
+    >
+      Sign Up
+    </button>
+  </p>
+</div>
+`;

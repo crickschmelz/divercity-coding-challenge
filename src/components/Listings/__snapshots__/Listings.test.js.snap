@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<main>
+  <nav
+    className="sc-fznZeY kyWsdB"
+  >
+    <a
+      href="https://www.divercity.io/"
+    >
+      <img
+        alt="divercity logo"
+        src="https://www.divercity.io/static/media/complete-logo.f047ae08.svg"
+      />
+    </a>
+    <ul
+      className="sc-fzokOt LzftF"
+    >
+      <li>
+        <button
+          className="sc-fzqBZW dEtAJr"
+          onClick={[Function]}
+        >
+          Log Out
+        </button>
+      </li>
+    </ul>
+  </nav>
+  <h2
+    className="sc-fzqNJr bYnXfq"
+  >
+    Job Listings
+  </h2>
+  <form
+    className="sc-fznyAO KcYRM"
+  >
+    <input
+      className="sc-fznKkj kxCHgt"
+      onChange={[Function]}
+      placeholder="Filter by location, job type, or skill..."
+      required={true}
+      type="text"
+    />
+  </form>
+  <p>
+    Loading jobs...
+  </p>
+</main>
+`;
